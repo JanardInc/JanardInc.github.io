@@ -1,0 +1,7 @@
+(function(){var loadHandler=window['sl_{CA133BFE-2540-42BC-8814-7F3E56981814}'];loadHandler&&loadHandler(17, '<div id="spr0_4cb62914"><div id="spr1_4cb62914" class="kern slide"><img id="img5_4cb62914" src="data/img4.png" width="720px" height="540px" alt="" style="left:0px;top:0px;"/><div id="spr3_4cb62914"><img id="img0_4cb62914" src="data/img0.png" width="720" height="85" alt="C0-HD-TOP.png" style="top:0.063px;"/></div></div><div id="spr2_4cb62914" class="kern slide"><div id="spr4_4cb62914" style="left:517.5px;top:30px;"><div style="width:0px;"><span id="txt0_4cb62914" data-width="14.000000" style="left:134.45px;top:6.721px;">18</span></div></div><div id="spr5_4cb62914" style="left:237.171px;top:40.936px;"><img id="img1_4cb62914" src="data/img14.png" width="462" height="329" alt="A close up of a sign\
+\
+Description automatically generated" style="top:-0.063px;"/></div><div id="spr6_4cb62914" style="left:28.029px;top:208.656px;"><img id="img2_4cb62914" src="data/img15.png" width="236" height="208" alt="A screenshot of a cell phone\
+\
+Description automatically generated" style="left:-0.25px;top:0.116px;"/></div><div id="spr7_4cb62914" style="left:342.975px;top:371.186px;"><img id="img3_4cb62914" src="data/img16.png" width="277" height="142" alt="A screenshot of a cell phone\
+\
+Description automatically generated" style="left:-0.125px;top:0.021px;"/></div><div id="spr8_4cb62914"><img id="img4_4cb62914" src="data/img5.jpg" width="102" height="38" alt="" style="top:0.187px;"/></div></div></div>', '{"s":[]}');})();
